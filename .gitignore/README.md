@@ -1,16 +1,12 @@
 # Changelog:
 * **1.0.10a**
-    - Do zakładek o :
+    - Do zakładek dodano:
       - `Obsługa`
       Instrukcja
       - `Informacje`
-      Lista zmian
-      Lista zmian
-      Zgłoś błąd
-      - `Kontakt`
-      FanPage
-      E-mail
-      Donate
+      Lista zmian/Lista zmian /Zgłoś błąd
+       - `Kontakt`
+      FanPage/E-mail/Donate
       
 * **1.0.9a**
     - Zaimplemętowano zakładki:
