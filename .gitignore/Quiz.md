@@ -15,7 +15,7 @@
 * **1.0.8a**: ~ 2018-12-14
     - Zaimplemętowano zakładki:
         - `Obsługa`
-        - `Informacje`
+        - `Informacje` 
         - `Kontakt`
      
 * **1.0.7a**: ~ 2018-12-05
