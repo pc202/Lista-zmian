@@ -1,4 +1,8 @@
 # Changelog:
+
+    - Zaimplemętowano wyszukiwarke Quizów
+    - Zaimplemętowano zliczanie rozegranych Quizów
+    - Dodano pierwszy Quiz "TEST"   
 * **1.0.10a**: ~ 2018-10-22
     - Zaimplemętowano wyszukiwarke Quizów
     - Zaimplemętowano zliczanie rozegranych Quizów
